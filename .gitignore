@@ -3,6 +3,6 @@ __pycache__/
 .env
 .venv
 .ipynb_checkpoints/
-results/logs/
-results/plots/
+#results/logs/
+#results/plots/
 .DS_Store

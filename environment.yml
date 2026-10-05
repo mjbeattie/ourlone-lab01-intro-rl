@@ -1,4 +1,4 @@
-name: ourlone-lab
+name: ourlone-lab01
 channels:
   - conda-forge
 dependencies:
